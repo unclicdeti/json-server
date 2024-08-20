@@ -1,50 +1,52 @@
-"tendencias": [
-    {
-        "tienda": "shein",
-        "precio": 7.38,
-        "nombre": "Print Pleated Bust Slip Dress",
-        "sku": "sz2312015413395987",
-        "enlace": "https://www.shein.com/product-p-29133389.html",
-        "img_uri": "https://img.ltwebstatic.com/images3_pi/2024/01/15/a4/17052897760cf830af668b61431dd230c328aa2fce_thumbnail_720x_wk_shein.jpg"
-    },
-    {
-        "tienda": "shein",
-        "precio": 15.00,
-        "nombre": "Printed Short Sleeve Notched V-Neck Summer Dress",
-        "sku": "sz2403057457418488",
-        "enlace": "https://m.shein.com/SHEIN-Clasi-Plus-Size-Printed-Short-Sleeve-Notched-V-Neck-Summer-Dress-p-32576001.html",
-        "img_uri": "https://img.ltwebstatic.com/images3_pi/2024/04/02/aa/17120431469ee5758a2bb9f7a07c64f65c238496e9_thumbnail_720x_wk_shein.jpg"
-    },
-    {
-        "tienda": "shein",
-        "precio": 16.00,
-        "nombre": "Women's Ditsy Floral Sleeveless Split Midi Dress",
-        "sku": "sz2407296167321700",
-        "enlace": "https://www.shein.com/SHEIN-PETITE-Women-s-Ditsy-Floral-Sleeveless-Split-Midi-Dress-p-40752451.html",
-        "img_uri": "https://img.ltwebstatic.com/images3_pi/2024/08/15/2d/17236871264860d7ea080454d46d9ba5e5ee7c52bc_thumbnail_720x_wk_shein.webp"
-    },
-    {
-        "tienda": "amazon",
-        "precio": 28.50,
-        "nombre": "Essentials Women's Skinny Jean",
-        "sku": "B07J3F6RPM",
-        "enlace": "https://www.amazon.com/Amazon-Essentials-Womens-Skinny-Regular/dp/B07J3F6RPM/",
-        "img_uri": "https://m.media-amazon.com/images/I/616rEYvMM1L._AC_UY1000_.jpg"
-    },
-    {
-        "tienda": "amazon",
-        "precio": 39.99,
-        "nombre": "Jeans Casual Baggy High Waisted Stretch Denim Pants",
-        "sku": "B0D12RLCRD",
-        "enlace": "https://www.amazon.com/Sidefeel-Womens-Casual-Waisted-Stretch/dp/B0D12RLCRD/",
-        "img_uri": "https://m.media-amazon.com/images/I/61Ti2NInwvL._AC_SY741_.jpg"
-    },
-    {
-        "tienda": "amazon",
-        "precio": 26.60,
-        "nombre": "Plush Lipstick, Rich Color, Satin Finish, 0.12 oz",
-        "sku": "B092BGS3HK",
-        "enlace": "https://www.amazon.com/SmashBox-Legendary-Prime-Plush-Lipstick/dp/B092BGS3HK",
-        "img_uri": "https://m.media-amazon.com/images/I/61scNeZnhrL._SX466_.jpg"
-    }
-]
+{
+	"tendencias": [
+		{
+			"tienda": "shein",
+			"precio": 7.38,
+			"nombre": "Print Pleated Bust Slip Dress",
+			"sku": "sz2312015413395987",
+			"enlace": "https://www.shein.com/product-p-29133389.html",
+			"img_uri": "https://img.ltwebstatic.com/images3_pi/2024/01/15/a4/17052897760cf830af668b61431dd230c328aa2fce_thumbnail_720x_wk_shein.jpg"
+		},
+		{
+			"tienda": "shein",
+			"precio": 15.00,
+			"nombre": "Printed Short Sleeve Notched V-Neck Summer Dress",
+			"sku": "sz2403057457418488",
+			"enlace": "https://m.shein.com/SHEIN-Clasi-Plus-Size-Printed-Short-Sleeve-Notched-V-Neck-Summer-Dress-p-32576001.html",
+			"img_uri": "https://img.ltwebstatic.com/images3_pi/2024/04/02/aa/17120431469ee5758a2bb9f7a07c64f65c238496e9_thumbnail_720x_wk_shein.jpg"
+		},
+		{
+			"tienda": "shein",
+			"precio": 16.00,
+			"nombre": "Women's Ditsy Floral Sleeveless Split Midi Dress",
+			"sku": "sz2407296167321700",
+			"enlace": "https://www.shein.com/SHEIN-PETITE-Women-s-Ditsy-Floral-Sleeveless-Split-Midi-Dress-p-40752451.html",
+			"img_uri": "https://img.ltwebstatic.com/images3_pi/2024/08/15/2d/17236871264860d7ea080454d46d9ba5e5ee7c52bc_thumbnail_720x_wk_shein.webp"
+		},
+		{
+			"tienda": "amazon",
+			"precio": 28.50,
+			"nombre": "Essentials Women's Skinny Jean",
+			"sku": "B07J3F6RPM",
+			"enlace": "https://www.amazon.com/Amazon-Essentials-Womens-Skinny-Regular/dp/B07J3F6RPM/",
+			"img_uri": "https://m.media-amazon.com/images/I/616rEYvMM1L._AC_UY1000_.jpg"
+		},
+		{
+			"tienda": "amazon",
+			"precio": 39.99,
+			"nombre": "Jeans Casual Baggy High Waisted Stretch Denim Pants",
+			"sku": "B0D12RLCRD",
+			"enlace": "https://www.amazon.com/Sidefeel-Womens-Casual-Waisted-Stretch/dp/B0D12RLCRD/",
+			"img_uri": "https://m.media-amazon.com/images/I/61Ti2NInwvL._AC_SY741_.jpg"
+		},
+		{
+			"tienda": "amazon",
+			"precio": 26.60,
+			"nombre": "Plush Lipstick, Rich Color, Satin Finish, 0.12 oz",
+			"sku": "B092BGS3HK",
+			"enlace": "https://www.amazon.com/SmashBox-Legendary-Prime-Plush-Lipstick/dp/B092BGS3HK",
+			"img_uri": "https://m.media-amazon.com/images/I/61scNeZnhrL._SX466_.jpg"
+		}
+	]
+}
